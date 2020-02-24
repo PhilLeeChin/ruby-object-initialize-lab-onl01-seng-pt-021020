@@ -5,4 +5,4 @@ class Dog
   end
 end
 
-rex = Dog.new()
+rex = Dog.new("Rex", "Mutt")

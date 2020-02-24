@@ -3,7 +3,4 @@ class Dog
     @name = name
     @breed = breed
   end
-  def breed
-    "Mutt"
-  end
 end

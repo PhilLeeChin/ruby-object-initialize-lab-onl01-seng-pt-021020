@@ -4,3 +4,6 @@ class Dog
     @breed = type
   end
 end
+
+fido = Dog.new
+fido.breed = "Mutt"
